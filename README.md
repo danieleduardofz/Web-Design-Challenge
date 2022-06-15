@@ -1,4 +1,4 @@
-Click [here] to deploy page(https://danieleduardofz.github.io/Web-Design-Challenge/) 
+Click [here] to deploy page(https://danieleduardofz.github.io/Web-Design-Challenge) 
 
 
 
